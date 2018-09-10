@@ -10,8 +10,11 @@ Loki Host:- loki.ist.unomaha.edu
 
 Git Commands- Here is the command, you have to follow each time you decide to push your changes to repo
 Step1 :- git pull
+
 Step 2:- git add .
+
 Step3 :- git commit -m "Add commit message"
+
 Step4 :- git push origin master
 
 
