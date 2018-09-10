@@ -9,6 +9,7 @@ Version Control Tutorial :- (http://swcarpentry.github.io/git-novice/01-basics/i
 Loki Host:- loki.ist.unomaha.edu
 
 Git Commands- Here is the command, you have to follow each time you decide to push your changes to repo
+
 Step1 :- git pull
 
 Step 2:- git add .
