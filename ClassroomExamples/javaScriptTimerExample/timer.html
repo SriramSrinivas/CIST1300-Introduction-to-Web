@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Sriram's JavaScript Timer Example</title>
+<script type="text/javascript" src="results.js"></script>
+<script type="text/javascript">
+	
+    var counter=0;
+    var id;
+    var d1;
+    var d;
+    var numberofQuestionsAnswered;
+    var correctanswers=0;
+    var wornganswers;
+    var totalquestions=1;
+    
+   function startTimer()
+   {
+   	d= new Date();
+    console.log(d);
+   	showTime()
+   }
+
+	function showTime()
+	{
+	 
+	 d1=new Date();
+
+       
+       
+       document.getElementById("showTimer").innerHTML= d1.getHours()+":"+d1.getMinutes()+":"+d1.getSeconds();
+
+      
+      id=setInterval("showTime()",1000)
+      console.log(d1.getTime()-d.getTime())
+      if(d1.getTime()-d.getTime()>120000)
+     
+     {
+         console.log(d1.getTime()-d.getTime())
+      	clearInterval(id);
+      	//alert("session has expired");
+      	validateQuiz()
+      
+      }
+
+	}
+
+ function validateQuiz()
+ {
+ console.log("I am here")
+ clearInterval(id);
+ console.log(document.getElementById("opt1").checked)
+if(document.getElementById("opt1").checked==true)
+{
+	correctanswers=correctanswers+1;
+}
+console.log(correctanswers)
+window.location= "results.html?correctanswers="+correctanswers;
+}
+
+function checkForloop()
+{
+  var i=0;
+  for(i=0;i<10;i++){
+
+   console.log(i);
+  }
+}
+
+</script>
+</head>
+
+<body>
+<p id ="showTimer"> </p>
+
+<button onclick="startTimer()">Start Quiz</button>
+
+
+<p> I don't enjoy CIST1300 </p>
+<input type="radio" name="option1" id="opt1" value="yes"> Yes<br>
+<input type="radio" name="option1" id="opt2" value="No"> No<br>
+
+<button onclick="validateQuiz()">Submit</button>
+<button onclick="checkForloop()">CheckForloop</button>
+
+
+</body>
+</html>
