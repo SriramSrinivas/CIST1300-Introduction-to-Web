@@ -8,16 +8,32 @@
 </head>
 
 
-<body> Number of Questions Answered: 
+<body> Number of Questions Answered Correctly: 
 <span id="questions"> </span>
 
 <script type="text/javascript" >
-
- var correctanswer= window.location.search.split('correctanswers')[1];
+  var wrongAnswers=0;
+  var totalNumberofQuestions=1
+ var correctanswer= window.location.search.split('=')[1];
  console.log(correctanswer);
 
 	 document.getElementById("questions").innerHTML=correctanswer
 </script>
+
+
+<p> Number of Incorrect Answers </p>
+
+<span id="incorrect"> </span>
+<script type="text/javascript">
+	var totalNumberofQuestions=1
+console.log(correctanswer);
+console.log(totalNumberofQuestions)
+var result=totalNumberofQuestions-correctanswer
+console.log(result);
+document.getElementById("incorrect").innerHTML=result
+
+</script>
+
 
 </body>
 </html>
