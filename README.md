@@ -33,6 +33,9 @@ All classroom activities will take place in PKI room 260 unless otherwise noted 
 - (30 %) 3 Exams, each worth 10%
 - (20 %) Project, (Group Project - 10 % and Individual Project - 10 % )
 
+### Submission
+- Labs, assignments and Project should be submitted via Gitlab. 
+
 ### Grading scale:
 
 - A+	97%	- 100 %	4.00 GPA	
@@ -52,7 +55,7 @@ All classroom activities will take place in PKI room 260 unless otherwise noted 
 
 
 ### Attendance
-Class Attendance: You do not have to attend class. Given the course  involves programming, attendance is highly recommended. If you miss class, you are responsible for getting the material. 
+Class Attendance isn't mandatory. Given the course  involves programming, attendance is highly recommended. If you miss class, you are responsible for getting the material. 
 
 
 ### Special accommodations for students with disabilities
