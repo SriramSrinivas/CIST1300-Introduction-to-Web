@@ -5,8 +5,7 @@ This repository contains all the materials related to CIST1300-01, Introduction 
 ## Online Discussion Area
 I have setup an online discussion board on slack.com for usage in this class. If you decide to work on a group project, I can create some private channels for you to work on, but I want to be able to participate in your conversations - so please use the space on slack.
 
-Go to https://cist1300-001.slack.com and use your unomaha email address to register an account. This will give you access to the course discussion and project collaboration spaces. Use the the general channel or create a new one for your team.
-
+Go to https://cist1300-001.slack.com, if you don't have access, please check the invitation link provided in canvas.
 
 ## Location
 All classroom activities will take place in PKI room 260 unless otherwise noted ahead of time.
@@ -34,7 +33,7 @@ All classroom activities will take place in PKI room 260 unless otherwise noted 
 - (20 %) Project, (Group Project - 10 % and Individual Project - 10 % )
 
 ### Submission
-- Labs, assignments and Project should be submitted via Gitlab. 
+- Labs, assignments and Project should be submitted via Gitlab.  
 
 ### Grading scale:
 
