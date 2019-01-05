@@ -1,4 +1,4 @@
-###CIST 1300 Software
+### CIST 1300 Editor and Putty Link
 ## WebStorm for HTML, CSS, JavaScript, and jQuery
 Link- https://www.jetbrains.com/webstorm/download/
 ## Putty
