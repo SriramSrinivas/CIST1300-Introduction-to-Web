@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Java Script Basics</title>
+</head>
+
+<script type="text/javascript">
+
+function sorting()
+{
+
+		var fruits = ["Banana", "Orange", "Apple", "Mango"];
+		fruits.sort();
+
+        fruits.reverse();
+        console.log(fruits)  
+
+}
+	
+
+	function variables(argument) {
+		
+		setInterval("sorting()",1000)
+       // sorting()
+		var a=[10,9,8,7,13];
+
+		  a.sort();
+		console.log(a);
+		 var d= new Date();
+		 console.log(d)
+
+        var test=["a","b","c"];
+         test.reverse()
+
+
+
+              // Sorts the elements of fruits 
+        console.log(fruits)
+
+		var x="10.23";
+		var test=32
+		var cist="omaha"
+		var car = {type:"Fiat", model:"500", color:"white"};
+		var student={name:"test", GPA:"3.5"};
+		console.log(x);
+		console.log(Date());
+		console.log(student.name);
+          
+
+
+         var cars= ["toyota", "bmw","3"];
+		var name1=document.getElementById('inputid').value;
+		console.log(name1);
+		document.getElementById('outputP').innerHTML=name1
+		 document.getElementById('outputP2').innerHTML = student.GPA;
+	}
+
+
+</script>
+<body>
+
+
+<p id="outputP">  </p>
+
+<p id="outputP2"> </p>
+
+<!-- <form action="" onclick="variables()"> -->
+	
+<label>Please Enter Name:</label>
+<input type="text" name="name" id="inputid">
+
+<button onclick="variables()"> Submit</button>
+<!-- </form> -->
+
+<!-- <div id="print">
+<p id ="outputP">
+</p>
+</div>
+<button onclick="variables()">Print</button>
+
+</p> -->
+
+
+</body>
+</html>
