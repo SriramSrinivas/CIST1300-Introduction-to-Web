@@ -71,14 +71,17 @@
 
 </div>
 
-<div id="div-2" class="divclass-1">
+<div id="div-2" class="container-fluid">
 
-    <a href ="index2.html" class="divclass-1"> Test </a>
-    <p> Test from div-2</p>
-    <ul class="main-navigation">
-        <li><a href="#">Home</a></li>
-        <li><a href="#">Front End Design</a>
-            <ul>
+   <div class="row">
+       <div class="col-5 col-lg-10 col-sm-10">
+
+    <!--<a href ="index2.html" class="divclass-1"> Test </a>-->
+    <!--<p> Test from div-2</p>-->
+    <ul>
+        <li class="liWidth"><a href="#">Home</a></li>
+        <li class="liWidth"><a href="#">Front End Design</a>
+            <ul class="fixMenu">
                 <li><a href="#">HTML</a></li>
                 <li><a href="#">CSS</a>
                     <ul>
@@ -88,15 +91,15 @@
                     </ul>
                 </li>
                 <li><a href="#">JavaScript</a>
-                    <ul>
+                    <ul  class="fixMenu">
                         <li><a href="#">Ajax</a></li>
                         <li><a href="#">jQuery</a></li>
                     </ul>
                 </li>
             </ul>
         </li>
-        <li><a href="#">WordPress Development</a>
-            <ul>
+        <li class="liWidth"><a href="#">WordPress Development</a>
+            <ul class="fixMenu">
                 <li><a href="#">Themes</a></li>
                 <li><a href="#">Plugins</a></li>
                 <li><a href="#">Custom Post Types</a>
@@ -108,8 +111,10 @@
                 <li><a href="#">Options</a></li>
             </ul>
         </li>
-        <li><a href="#">About Us</a></li>
+        <li class="liWidth"><a href="#">About Us</a></li>
     </ul>
+       </div>
+</div>
 </div>
 
 <div id="div-3" class="divclass-2">
