@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sriram's quiz</title>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<!-- jQuery library -->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+   <script src="quiz.js">
+
+       </script>
+
+
+    <script src="variables.js">
+
+
+
+    </script>
+
+
+    <script type="text/javascript">
+
+        console.log(number1,number2, sum,testIndex,letter);
+    </script>
+
+</head>
+
+<body>
+
+
+<div class="container">
+	<div class="row">
+<!-- <form  action="">
+	<div class="form-group">
+	<label> Question1 :- Do you like CIST1300</label>
+    </div>
+
+
+<div class="form-group">
+	<label><input type="radio" name="test" id="checkBox1" value="yes" checked="true">Yes</label>
+</div>
+
+
+<div class="form-group">
+	<label><input type="radio" name="test"  id="checkbox2" value="No" checked="false">No</label>
+</div>
+
+
+
+
+<button type="button" class="btn btn-success" onclick="testJavaScript()">Test</button>
+</form> -->
+
+
+&nbsp;
+
+<div class="col-12">
+
+<div id="accordion">
+  <div class="card" class="btn btn-danger">
+    <div class="card-header" id="headingOne">
+      <h5 class="mb-0">
+        <button class="btn btn-link" data-toggle="collapse" data-target="#collapse1" aria-expanded="true" aria-controls="collapseOne">
+          Collapsible Group Item #1
+        </button>
+      </h5>
+    </div>
+
+
+   <div id="collapse1" class="panel-collapse collapse">
+      
+      <div class="card-body">
+<div class="form-group">
+	<label> Question1 :- Do you like CIST1300</label>
+    </div>
+<div class="form-group">
+	<label><input type="radio"  value=" Option1" id="id-1" checked>Option1</label>
+</div>
+<div class="form-group">
+	<label><input type="radio"  value="Option2" id="id-2" >Option2</label>
+</div>
+<div class="form-group">
+    <label><input type="radio"  value="Option3" id="id-3" >Option3</label>
+</div>
+    <div class="form-group">
+    <label><input type="radio"  value="Option4" id="id-4" >Option4</label>
+</div>
+
+
+      </div>
+
+  <div class="card-footer">
+  <p> Test Footer </p>
+  </div>    
+  </div>
+    </div>
+
+</div>
+
+</div>
+<!--<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Modal Window</button>-->
+
+
+<!--<div class="modal" id="myModal">-->
+
+	<!--<div class="modal-dialog">-->
+      <!--<div class="modal-content">-->
+      <!---->
+        <!--&lt;!&ndash; Modal Header &ndash;&gt;-->
+        <!--<div class="modal-header">-->
+          <!--<h4 class="modal-title">CIST1300, Survey</h4>-->
+          <!--<button type="button" class="close" data-dismiss="modal">&times;</button>-->
+        <!--</div>-->
+        <!---->
+        <!--&lt;!&ndash; Modal body &ndash;&gt;-->
+        <!--<div class="modal-body">-->
+         <!--Test, modal window-->
+        <!--</div>-->
+        <!---->
+        <!--&lt;!&ndash; Modal footer &ndash;&gt;-->
+        <!--<div class="modal-footer">-->
+          <!--<button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>-->
+        <!--</div>-->
+        <!---->
+      <!--</div>-->
+    <!--</div>-->
+
+<!--</div>-->
+
+    <br>
+
+<div class="col-12">
+
+  <!--<form onclick="checkInput()">-->
+    <label> a=</label>
+    <input  type="number"  id="number1" name="name1" required value="">
+</div>
+        <div class="col-12">
+    <label> b=</label>
+
+    <input type="number" id="number2" required value="">
+        </div>
+
+        <div class="col-4">
+    <label> Sum=</label>
+
+        <span id="sum" value=" "> </span>
+
+        </div>
+        <div class="col-4">
+    <label> Difference=</label>
+
+            <span id="dif" > </span>
+
+        </div>
+
+            <div class="col-4">
+    <label> Multiplication</label>
+
+                <span id="multiply"> </span>
+             </div>
+                <div class="col-4">
+    <label> Division</label>
+
+                    <span id="divide"> </span>
+
+                </div>
+
+
+    <input type="submit" onclick="checkInput()">
+
+
+  <!--</form>-->
+</div>
+
+<script type="text/javascript">
+
+
+    function checkInput() {
+
+        var number1=document.getElementById("number1").value;
+        var number2=document.getElementById("number2").value;
+        console.log(number1, number2);
+
+       var sumValue= addition(parseInt(number1),parseInt(number2));
+      console.log(sumValue);
+      document.getElementById("sum").innerHTML=sumValue;
+
+      var diffValue=subtraction(number2,number1);
+      console.log(diffValue);
+      document.getElementById("dif").innerHTML=diffValue;
+
+      var product=multiplication(number1,number2);
+      console.log(product);
+      document.getElementById("multiply").innerHTML=product;
+
+
+      var div=divide(number1,number2);
+      console.log(div);
+      document.getElementById("divide").innerHTML=div;
+
+
+
+
+
+
+
+
+
+
+
+    }
+
+</script>
+
+</div>
+</div>
+</body>
+</html>
