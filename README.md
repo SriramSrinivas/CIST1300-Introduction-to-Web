@@ -30,7 +30,7 @@ All classroom activities will take place in PKI room 260 unless otherwise noted 
 - (2 % ) Class Participation
 - (40 %) 5 Assignments, each worth 8 %
 - (30 %) 3 Exams, each worth 10%
-- (20 %) Project, (Group Project - 10 % and Individual Project - 10 % )
+- (20 %) Project, (Group Project - 10 % and Individual Project - 10 % (Merged with group project, if you commit files to group gitlab repo, I will award you 10 % for the individual project ))
 
 ### Submission
 - Labs, assignments and Project should be submitted via Gitlab.  
