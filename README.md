@@ -5,14 +5,14 @@ This repository contains all the materials related to CIST1300-01, Introduction 
 ## Online Discussion Area
 I have setup an online discussion board on slack.com for usage in this class. If you decide to work on a group project, I can create some private channels for you to work on, but I want to be able to participate in your conversations - so please use the space on slack.
 
-Go to https://cist1300-001.slack.com, if you don't have access, please use the invitation link - https://join.slack.com/t/cist1300-001/shared_invite/enQtNTEzMjI1OTY1MjA3LWE4MGQyZDQ0OTQxZTc2MzkwMTJmMTQ4OTllMmE4YmUzNTQ1OGMyZDg4ZjgwYmFjZjM4ZDdhNmQ2YWNmYzQxNDM .
+Go to https://cist1300-001.slack.com, if you don't have access, please use the invitation link - https://join.slack.com/t/cist1300-001/shared_invite/enQtNzI0NzMzNzI5Njg0LTQ3YzZmYzY2NGRmYjY4NDY3OWM2MzJlNjU2MGI0NGEzMDA0NzA2YzgwMzQxMGIwMzViNWJlOWZlNGQ1OWFhNWY.
 
 ## Location
 All classroom activities will take place in PKI room 260 unless otherwise noted ahead of time.
 
 
 ## Syllabus
-### Date/Time: Monday- Wednesday 10:30 AM- 11:45 AM
+### Date/Time: Monday- Wednesday 4:30 PM- 5:45 PM
 ### Instructor :Sriram Srinivasan
 ### Office: PKI 222
 ### Office Hours: Monday (12:00PM - 1:00 PM) or walk-ins anytime the door is open
@@ -24,16 +24,20 @@ All classroom activities will take place in PKI room 260 unless otherwise noted 
 	applying styles and formatting to those pages using CSS (Cascading Style Sheets), Bootstrap, learning JavaScript and Jquery.  
 -  Finally tying it all together by creating dynamic web pages that use a combination of HTML5, CSS, Bootstrap, JavaScript & Jquery.
 
+If time permits towards the end we will review Angular framework and get familiar with single page web application.
+
 
 ### Grading Breakdown (due dates are tentative)
-- (8 %)  8 Labs, each worth 1%
+- (10 %)  10 Labs, each worth 1%
 - (2 % ) Class Participation
-- (40 %) 5 Assignments, each worth 8 %
+- (48 %) 6 Assignments, each worth 8 %
 - (30 %) 3 Exams, each worth 10%
-- (20 %) Project, (Group Project - 10 % and Individual Project - 10 % (Merged with group project, if you commit files to group gitlab repo, I will award you 10 % for the individual project ))
+- (10 %) Project (Group project, students can form their own group. Each group have maximum of 3 members)
+
+
 
 ### Submission
-- Labs, assignments and Project should be submitted via Gitlab.  
+- Labs, assignments and Project should be submitted via BitBucket (BB) only. No other means of submission will be accepted. 
 
 ### Grading scale:
 
@@ -54,7 +58,7 @@ All classroom activities will take place in PKI room 260 unless otherwise noted 
 
 
 ### Attendance
-Class Attendance isn't mandatory. Given the course  involves programming, attendance is highly recommended. If you miss class, you are responsible for getting the material. 
+Class Attendance is mandatory. Given the course  involves programming, attendance is highly recommended. If you miss class, you are responsible for getting the material. If you miss more than 2 classes without prior permission from the instructor you will be administratively withdrawn from the class.  There will be 2 guest lectures, attendance for the guest lecture is mandatory. Guest lecture dates will be finalized by 09/10/2019. 
 
 
 ### Special accommodations for students with disabilities
