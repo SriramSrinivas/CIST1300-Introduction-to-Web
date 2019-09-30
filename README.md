@@ -58,7 +58,10 @@ If time permits towards the end we will review Angular framework and get familia
 
 
 ### Attendance
-Class Attendance is mandatory. Given the course  involves programming, attendance is highly recommended. If you miss class, you are responsible for getting the material. If you miss more than 2 classes without prior permission from the instructor you will be administratively withdrawn from the class.  There will be 2 guest lectures, attendance for the guest lecture is mandatory. Guest lecture dates will be finalized by 09/10/2019. 
+Class Attendance is mandatory. Given the course  involves programming, attendance is highly recommended. If you miss class, you are responsible for getting the material. If you miss more than 2 classes without prior permission from the instructor you will be administratively withdrawn from the class.  There will be 2 guest lectures, attendance for the guest lecture is mandatory. 
+## Guest Lecture Dates:-
+10/9/2019:- Guest speakers from Mutual of Omaha
+10/30/2019 :- Guest Speaker, Zac Fowler IS&T Attic
 
 
 ### Special accommodations for students with disabilities
