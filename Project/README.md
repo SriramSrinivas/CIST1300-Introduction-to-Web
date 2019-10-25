@@ -1,4 +1,4 @@
-# Project proposal -20 pts
+# Project Proposal -20 pts
 
 Submit a project proposal by 10/30/2019, all submission will be via BitBucket (BB) under the group project repository.  The proposal should follow
 the teamplate provided below. All submission including your mockups should be available inside your group repository. The proposal and mockupscreen should
