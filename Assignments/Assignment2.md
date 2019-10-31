@@ -19,6 +19,9 @@ In assignment 3 and future once we learn javascript and Jquery we will make the 
 do comment the correct answer for the instructor to test your website.
 8.	Complete the reflection via slack and do make sure that the code is pushed and the website can be accessed via Loki.
 
+Assignment 2 sample code can be found at  https://bitbucket.org/sriramsrinivas/cist1300-sriramsrinivas/src/master/Assignment%202%20Sample/.
+This assignment will require a lot of effort, please start working on it as early as possible.
+
 Grading Criteria-
 Website Functionality – 25pts
 Design and Aesthetic view- 15pts
