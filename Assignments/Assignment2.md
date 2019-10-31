@@ -24,5 +24,9 @@ This assignment will require a lot of effort, please start working on it as earl
 
 Grading Criteria-
 Website Functionality – 25pts
+
 Design and Aesthetic view- 15pts
+
 Reflection -10pts
+
+Total :- 50 Pts
