@@ -6,7 +6,7 @@
 2.	Now design a webpage, which allows users to take the online quiz.  There should be at least 15 questions.
 3.	10 out of 15 questions should be multiple choice questions (minimum 4 options), 4 questions should be true and false, 
 and 1 question should allow users to type their answers.
-4.	 #skip (The user should answer all the questions, if a user doesn’t answer any question, ensure that once a user hits submit button  user should get an alert via modal window saying “All questions should be answered” to proceed.  --# Skip this step for assignment 2, you will do this step when you work on assignment 3.)
+4.	## skip (The user should answer all the questions, if a user doesn’t answer any question, ensure that once a user hits submit button  user should get an alert via modal window saying “All questions should be answered” to proceed.  --Skip this step for assignment 2, you will do this step when you work on assignment 3.)
 5.	For all your questions please use the https://getbootstrap.com/docs/4.3/components/collapse/  recommended Accordion.   
 When the page loads all the questions by default will not be visible, once a user clicks the button or question number, 
 the question and answer section for that question will be visible.  
