@@ -16,7 +16,7 @@ This assignment I just expect you to have the progress bar on top no need to upd
 In assignment 3 and future once we learn javascript and Jquery we will make the progress bar dynamic.
 7.	Testing- For all the multiple choice questions 5 for this assignment, please ensure the user can select only one answer and 
 do comment the correct answer for the instructor to test your website.
-8.	Complete the reflection via slack and do make sure that the code is pushed and the website can be accessed via Loki.
+8.	Complete the reflection via slack and do make sure that the code is pushed and the website can be accessed via Loki. Slack channel for reflection- #assignment2-
 
 Assignment 2 sample code can be found at  https://bitbucket.org/sriramsrinivas/cist1300-sriramsrinivas/src/master/Assignment%202%20Sample/.
 This assignment will require a lot of effort, please start working on it as early as possible.
