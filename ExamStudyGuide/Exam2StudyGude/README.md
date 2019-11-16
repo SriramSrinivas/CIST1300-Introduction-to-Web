@@ -4,7 +4,7 @@
 
 * Bootstrap Components
 * Java Script 
-    * Variable
+    * Variable (Syntax)
     * Functions (Rand, Date, &  Syntax to write and call functions)
     * Syntax to call JavaScript from HTML 
 ## Exam Format
