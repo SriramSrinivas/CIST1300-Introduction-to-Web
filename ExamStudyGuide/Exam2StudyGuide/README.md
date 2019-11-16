@@ -1,7 +1,6 @@
 # Exam 2 Study  Guide
 **Date:** **11/25/2019,**   **04:30 PM - 05:45 PM** 
 ## Topics
-
 * Bootstrap Components
 * Java Script 
     * Variable (Syntax)
