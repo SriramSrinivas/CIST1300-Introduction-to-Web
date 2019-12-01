@@ -23,3 +23,14 @@
 **Step 8:-** Complete Reflection via Slack (#spring2019assignment2)
 
 
+
+## Grading Criteria-
+Website Functionality – 25pts
+
+Design and Aesthetic view- 15pts
+
+Reflection -10pts
+
+Google Analytics -10pts
+
+Total :- 60 Pts
