@@ -13,5 +13,5 @@
   
 ## Exam Format
  There will be 2 sections similar :
- * **Section 1** will have 35 questions, each question is worth 2 point. You will be asked to verify the syntax of the given code, preidct the outcome of the code, and this section will also have some descriptive questions.
+ * **Section 1** will have 35 questions, each question is worth 2 point. You will be asked to verify the syntax of the given code, predict the outcome of the code, and this section will also have some descriptive questions.
  * **Section 2** will have 1 question, worth 30 points, you will be asked to write or implement similiar to something which you did in assignment 3 or inclass examples. 
