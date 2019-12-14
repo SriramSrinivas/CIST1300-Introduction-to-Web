@@ -28,6 +28,9 @@ https://github.com/SriramSrinivas/CIST1300-Introduction-to-Web/blob/master/Class
 
 https://github.com/SriramSrinivas/CIST1300-Introduction-to-Web/blob/master/ClassroomExamples/Archive%20Fall%202018/JavaScript/JavascriptTimer.html
 
+For dispalying results, here is my solution, yo can use this example, however you need to modify to give the correct output:-
+https://github.com/SriramSrinivas/CIST1300-Introduction-to-Web/blob/master/ClassroomExamples/Archive%20Fall%202018/javaScriptTimerExample/results.html
+
 You can use Jquery, we will discuss and post the examples on 12/2/2019.
 
 
