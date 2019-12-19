@@ -20,7 +20,7 @@
 
 **Step 7:-** Now ensure your analytics is working and upload a screenshot of your analytics inside your Assignment3 folder
 
-**Step 8:-** Complete Reflection via Slack (#spring2019assignment2)
+**Step 8:-** Complete Reflection via Slack (#fall2019assignment3)
 
 **JavaScript Timer example code :-**
 https://github.com/SriramSrinivas/CIST1300-Introduction-to-Web/blob/master/ClassroomExamples/Archive%20Fall%202018/javaScriptTimerExample/timer.html
