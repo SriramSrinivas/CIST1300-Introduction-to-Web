@@ -8,11 +8,11 @@ I have setup an online discussion board on slack.com for usage in this class. If
 Go to https://cist1300-001.slack.com, if you don't have access, please use the invitation link - https://join.slack.com/t/cist1300-001/shared_invite/enQtNzI0NzMzNzI5Njg0LTQ3YzZmYzY2NGRmYjY4NDY3OWM2MzJlNjU2MGI0NGEzMDA0NzA2YzgwMzQxMGIwMzViNWJlOWZlNGQ1OWFhNWY.
 
 ## Location
-All classroom activities will take place in PKI room 260 unless otherwise noted ahead of time.
+All classroom activities will take place in PKI room 276 unless otherwise noted ahead of time.
 
 
 ## Syllabus
-### Date/Time: Monday- Wednesday 4:30 PM- 5:45 PM
+### Date/Time: Monday- Wednesday 10:30 AM- 11:45 AM
 ### Instructor :Sriram Srinivasan
 ### Office: PKI 222
 ### Office Hours: Monday (12:00PM - 1:00 PM) or walk-ins anytime the door is open
@@ -22,17 +22,17 @@ All classroom activities will take place in PKI room 260 unless otherwise noted 
 ### Class Overview:	
  - In this class, we will cover creating static web pages using HTML5 (HyperText Markup Language),
 	applying styles and formatting to those pages using CSS (Cascading Style Sheets), Bootstrap, learning JavaScript and Jquery.  
--  Finally tying it all together by creating dynamic web pages that use a combination of HTML5, CSS, Bootstrap, JavaScript & Jquery.
+-  Finally tying it all together by creating dynamic web pages that use a combination of HTML5, CSS, Bootstrap, JavaScript,Jquery, AJAX and PHP.
 
-If time permits towards the end we will review Angular framework and get familiar with single page web application.
 
 
 ### Grading Breakdown (due dates are tentative)
-- (10 %)  10 Labs, each worth 1%
-- (2 % ) Class Participation
-- (48 %) 6 Assignments, each worth 8 %
+- (20 %)  10 Labs, each worth 2%
+- (2 % ) Class Participation 
+- (30 %) 6 Assignments, each worth 5 %
+- (8 % ) 16 Weekly quiz each worth 0.5% (We will not have quiz during the first week, spring break, prep week and final week)
 - (30 %) 3 Exams, each worth 10%
-- (10 %) Project (Group project, students can form their own group. Each group have maximum of 3 members)
+- (10 %) Project (Group project, students can form their own group. Each group can have maximum of 3 members)
 
 
 
@@ -58,18 +58,13 @@ If time permits towards the end we will review Angular framework and get familia
 
 
 ### Attendance
-Class Attendance is mandatory. Given the course  involves programming, attendance is highly recommended. If you miss class, you are responsible for getting the material. If you miss more than 2 classes without prior permission from the instructor you will be administratively withdrawn from the class.  There will be 2 guest lectures, attendance for the guest lecture is mandatory. 
-## Guest Lecture Dates:-
-10/9/2019:- Guest speakers from Mutual of Omaha
-10/30/2019 :- Guest Speaker, Zac Fowler IS&T Attic
-
+Class Attendance is mandatory. Given the course  involves programming, attendance is highly recommended. If you miss class, you are responsible for getting the material. If you miss more than 2 classes without prior permission from the instructor you will be administratively withdrawn from the class. Only 4 excused absence are allowed, anything above that will not be permitted. If there are any guest lectures scheduled, attendance is mandatory.  Due to snow or any bad weather if the university is closed, we will meet virtually via zoom.   
 
 ### Special accommodations for students with disabilities
 Students with disabilities requiring special accommodations must contact disability services. Disability services may be reached by phone at (402) 554-2872 or by email at unodisability@unomaha.edu.
 ### Special accommodations for active duty or reserve military
 Students serving in the military requiring special accommodations (e.g. unit deployment) must contact the office of Military and Veteran Services by phone at (402) 554-2349 or by email at unovets@unomaha.edu.
 
-### Tutorial for accessing loki machine using Putty :- https://unomaha.box.com/s/7siwsy8p1e5x61d6drgcp4vd1blsa68f
 
 ### Version Control Tutorial :- (http://swcarpentry.github.io/git-novice/01-basics/index.html)
 
