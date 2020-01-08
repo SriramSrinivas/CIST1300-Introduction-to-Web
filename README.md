@@ -5,7 +5,7 @@ This repository contains all the materials related to CIST1300-01, Introduction 
 ## Online Discussion Area
 I have setup an online discussion board on slack.com for usage in this class. If you decide to work on a group project, I can create some private channels for you to work on, but I want to be able to participate in your conversations - so please use the space on slack.
 
-Go to https://cist1300-001.slack.com, if you don't have access, please use the invitation link - https://join.slack.com/t/cist1300-001/shared_invite/enQtNzI0NzMzNzI5Njg0LTQ3YzZmYzY2NGRmYjY4NDY3OWM2MzJlNjU2MGI0NGEzMDA0NzA2YzgwMzQxMGIwMzViNWJlOWZlNGQ1OWFhNWY.
+Go to https://cist1300-001.slack.com, if you don't have access, please use the invitation link - https://join.slack.com/t/cist1300-001/shared_invite/enQtODg0NjUwODYzNTcwLTBiY2YzNTM1NGM3ZWMzMTY4ZGYzMDFmMGE5ZTFhYWVhNzM4ZGU1ZGVhMDdjM2NhYjMwNzE1ZjhlY2E3OGYxMGU
 
 ## Location
 All classroom activities will take place in PKI room 276 unless otherwise noted ahead of time.
