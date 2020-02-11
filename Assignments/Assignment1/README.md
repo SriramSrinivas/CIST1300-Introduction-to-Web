@@ -1,5 +1,5 @@
 # CIST1300-001 (Assignment 1)
-##Due Date:- 02/26/2020
+## Due Date:- 02/26/2020
 1.	 For this assignment you will be just using HTML, you can use CSS if you want but it is not expected. Please review the in-class examples and Lab 2 and 3 before you start the assignment.
 2.	Create a folder Assignment 1 under your repo and first file should be named index.html
 3.	Design a web page using HTML elements to display a table which has 5 columns and 10 rows.
@@ -20,8 +20,8 @@ If the code is not in BB and page is not published in Loki, you will receive a 0
 ## Grading Rubric
 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
+| Tables        | Are          
+| ------------- |:-------------:|
 | HTML code and meets all the specification as mentioned above |40 |
 | Reflection via Slack     |  10 |
 | Total |	50pts
