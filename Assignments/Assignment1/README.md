@@ -20,7 +20,7 @@ If the code is not in BB and page is not published in Loki, you will receive a 0
 ## Grading Rubric
 
 
-| Tables        | Are          
+| Assignment Expectations       | Points      
 | ------------- |:-------------:|
 | HTML code and meets all the specification as mentioned above |40 |
 | Reflection via Slack     |  10 |
