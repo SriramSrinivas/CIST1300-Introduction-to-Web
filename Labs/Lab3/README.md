@@ -4,7 +4,11 @@
 
 2.	Here is a chance to be creative, the previous class we discussed HTML elements, remember www.w3schools.com is your friend. You can check out that link and see which elements you can use.
 
-3.	In the index.html web page, create an anchor link to connect to aboutme.html page
+3.	In the index.html web page, create a hyperlink (<a href=""> </a>) link to connect to aboutme.html page
+
+### Do also add the following meta tag for making your website responsive
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
  
 4.	The more you use HTML elements it will give you confidence. Ideally, a aboutme page should have information such as your name, address, phone, some introduction statement about yourself, your skill sets, your education, and work experience  As this is an opportunity for you to be creative, please use the proper HTML elements and attribute and design your webpage.
 
