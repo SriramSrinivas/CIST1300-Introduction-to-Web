@@ -8,7 +8,7 @@
 
 ### Do also add the following meta tag for making your website responsive
  
-"<meta name="viewport" content="width=device-width, initial-scale=1.0">"
+{{<meta name="viewport" content="width=device-width, initial-scale=1.0">}}
 
  4.	The more you use HTML elements it will give you confidence. Ideally, a aboutme page should have information such as your name, address, phone, some introduction statement about yourself, your skill sets, your education, and work experience  As this is an opportunity for you to be creative, please use the proper HTML elements and attribute and design your webpage.
 
