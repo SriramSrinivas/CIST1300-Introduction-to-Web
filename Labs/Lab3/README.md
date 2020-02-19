@@ -6,10 +6,6 @@
 
 3.	In the index.html web page, create a hyperlink (<a href=""> </a>) link to connect to aboutme.html page
 
-### Do also add the following meta tag for making your website responsive
- 
-{{<meta name="viewport" content="width=device-width, initial-scale=1.0">}}
-
  4.	The more you use HTML elements it will give you confidence. Ideally, a aboutme page should have information such as your name, address, phone, some introduction statement about yourself, your skill sets, your education, and work experience  As this is an opportunity for you to be creative, please use the proper HTML elements and attribute and design your webpage.
 
 6.	Once you are done, stop here ask for feedback from the instructor, I will review your webpage in local, and quickly glance your content and your code. I will provide you with my feedback, and you can decide if you want to change.
@@ -22,9 +18,9 @@
 9.  Add some relevant content to the new web page you created.
 
 10. Let’s make all the pages responsive in Webstorm by adding the HTML meta tag, we discussed in this lecture.
-
+<dl>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+</dl>
 11. For all HTML elements add HTML attribute id and class, if you want the same CSS for multiple HTML elements, do add class.
 
 ## Now let’s add the CSS style sheet, and define your CSS for HTML elements.
