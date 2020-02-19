@@ -1,4 +1,4 @@
-## LAB 3
+# LAB 3
 
 1.	Inside your CIST1300-001, create a folder “Lab 3” and inside the folder create two html files index.html and aboutme.html
 
@@ -23,14 +23,14 @@
 
 11. For all HTML elements add HTML attribute id and class, if you want the same CSS for multiple HTML elements, do add class.
 
-# Now let’s add the CSS style sheet, and define your CSS for HTML elements.
+## Now let’s add the CSS style sheet, and define your CSS for HTML elements.
 
 
 
 Step 11 can be done in multiple ways, I am ok whichever style you choose, however for Lab4 all elements for both HTML pages should have a style, it can be unique or different.
 
 
-# Test your website after adding CSS locally
+## Test your website after adding CSS locally
 
 Add CSS properties which we haven’t covered, refer to the links provided when we discussed the CSS in the class. In order to earn full credit, please have around 15 unique CSS properties and should be relevant to the page.  
 
@@ -47,7 +47,7 @@ Add CSS properties which we haven’t covered, refer to the links provided when 
 
 
 
-# Lab 4 reflection guidelines- Lab 4 reflection, please share your feedback about Lab 4, what you think is good, and bad about Lab 4. Please share your thoughts about CSS and responsive websites.
+## Lab 3 reflection guidelines- Lab 3 reflection, please share your feedback about Lab 3, what you think is good, and bad about Lab 3. Please share your thoughts about CSS and responsive websites.
 
 
 
