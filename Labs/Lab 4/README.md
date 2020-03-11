@@ -1,7 +1,6 @@
 ## Lab 4 Bootstrap
 
-Step 1:- Create a new folder “Lab4” inside your cist repository, next
-copy all the files from Lab3
+### Step 1:- Create a new folder “Lab4” inside your cist repository, next copy all the files from Lab3
 
 Step 2:- Create a new page contactme.html, and use anchor link to
 connect from the other 3 pages, please make sure all 4 pages have a link
