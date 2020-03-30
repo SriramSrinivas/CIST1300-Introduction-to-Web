@@ -1,5 +1,5 @@
- # CIST1300-001 (Assignment 2, Due 11/11/2019 @11:59 PM)
-## For this assignment, you can use HTML, CSS, and Bootstrap. 
+ # CIST1300-001 (Assignment 2, Due 04/06/2020 @11:59 PM)
+## For this assignment, you can use HTML, CSS, and Bootstrap. (Don't use Java Script, you will use it for Assignment 3)
 
 # Assignment:- 
 1.	Create a new folder “Assignment2” inside your repo. 
