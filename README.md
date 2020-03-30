@@ -18,6 +18,8 @@ All classroom activities will take place in PKI room 276 unless otherwise noted 
 ### Office Hours: Monday (12:00PM - 1:00 PM) or walk-ins anytime the door is open
 ### E-mail: sriramsrinivas@unomaha.edu (please message me on slack instead of emailing)
 ### Slack Link- https://cist1300-001.slack.com
+### Due to ongoing COVID-19 situation the class will be meeting online via zoom. We will be all meeting via zoom (see the link below). Attendance is completely mandatory, Zoom will record all the meetings and will tell me who all attended the meeting. 
+### Zoom link :- https://unomaha.zoom.us/j/171306450
 
 ### Class Overview:	
  - In this class, we will cover creating static web pages using HTML5 (HyperText Markup Language),
