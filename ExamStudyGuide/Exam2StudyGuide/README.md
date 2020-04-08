@@ -1,6 +1,6 @@
 # Exam 2 Study  Guide
 
-**Date:** **11/25/2019,**   **04:30 PM - 05:45 PM** 
+**Date:** **04/16/2020-04/19/2020,**   <!-- 05:00 PM - 11:59 PM -->
 
 ## Topics
 * Bootstrap Components
